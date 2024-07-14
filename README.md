@@ -53,7 +53,7 @@ The following models are trained and evaluated in the notebook:
 - Decision Tree
 
 ## Pipelines
-Pipelines for the Decision Tree and Logistic Regression models have been created and saved to ensure smooth model training and evaluation. These pipelines include all the necessary preprocessing steps and the model itself.
+Pipelines for the `Decision Tree` and `Logistic Regression` models have been created and saved to ensure smooth model training and evaluation. These pipelines include all the necessary preprocessing steps and the model itself.
 
 ## Results
 The performance of each model is evaluated using appropriate metrics. The results are compared to determine the best-performing model for this dataset.
